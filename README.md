@@ -1,3 +1,10 @@
+![Thanks Downloads](https://img.shields.io/github/downloads/neville-studio/408-exam-paper/total?style=flat-square&logo=GitHub)
+![Thanks Stars](https://img.shields.io/github/stars/neville-studio/408-exam-paper?style=flat-square&logo=GitHub)
+![Thanks Forks](https://img.shields.io/github/forks/neville-studio/408-exam-paper?style=flat-square&logo=GitHub)
+
+# 关于2025年考研408真题
+2025年408考试于2024年12月22日 14:00~17:00完成，现向关注此Repository的兄弟们获取一下扫描版真题（最好是原版，不要回忆版。谢谢）。获取到的我们会第一时间进行补充和发布。感谢大家的支持。
+
 # 概述
 存放着有关2009-2024年的真题。如果可以，给个star吧
 
