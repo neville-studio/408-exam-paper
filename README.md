@@ -2,6 +2,18 @@
 ![Thanks Stars](https://img.shields.io/github/stars/neville-studio/408-exam-paper?style=flat-square&logo=GitHub)
 ![Thanks Forks](https://img.shields.io/github/forks/neville-studio/408-exam-paper?style=flat-square&logo=GitHub)
 
+# 关于 2026年考研真题
+
+2026年 考研408已于 2025年12月21日 17:00结束。
+
+感谢各位同志们帮助补充本仓库，希望各位同志们能够贡献2026年考研408真题
+我们希望的可信度材料排序：
+1. 2026年考研英语真题（原题）
+2. 2026年考研大纲中给出的历年真题
+注意：建议不要提供回忆版真题，感谢。
+
+---
+
 # 概述
 存放着有关2009-2025年的真题。如果可以，给个star吧
 
